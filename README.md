@@ -12,14 +12,14 @@
         <center>
 		<img src= "image 1.jpg" />
 		</center>
-    <body>
-        <form>
-            <p>voici un champ de texte : <input type="text"/></p>
-            <p>voici une checkbox <input type="checkbox"/></p>
-            <button>Cliquez ici !</button>
+    	<body>
+        	<form>
+            	<p>voici un champ de texte : <input type="text"/></p>
+            	<p>voici une checkbox <input type="checkbox"/></p>
+            	<button>Cliquez ici !</button>
 			<input type="submit" value="bouton"</input>
-        </form>
-    </body>
+        	</form>
+    	</body>
 	
 	</body>
 </html>
